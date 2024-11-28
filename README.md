@@ -14,8 +14,7 @@ The **Rainbow Folder** CSS snippet enhances your Obsidian experience by assignin
 
 ## 🌟 Preview  
 Here’s a sneak peek of the **Rainbow Folder** in action:  
-![Screenshot_20241127-195906~2](https://github.com/user-attachments/assets/8c76dbe4-8fff-4844-93a6-6cf16baacdcb)
-
+[![Screenshot-20241127-195906-2.png](https://i.postimg.cc/9MCdyNHy/Screenshot-20241127-195906-2.png)](https://postimg.cc/sBHGrmX2)
 
 ---
 
