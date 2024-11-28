@@ -16,7 +16,7 @@ The **Rainbow Folder** CSS snippet enhances your Obsidian experience by assignin
 Here’s a sneak peek of the **Rainbow Folder** in action:  
 
 ![Rainbow Folder Preview](path/to/preview-image.png)  
-*(Replace `path/to/preview-image.png` with the actual image link.)*  
+`<a href='https://postimg.cc/sBHGrmX2' target='_blank'><img src='https://i.postimg.cc/sBHGrmX2/Screenshot-20241127-195906-2.png' border='0' alt='Screenshot-20241127-195906-2'/></a>`
 
 ---
 
